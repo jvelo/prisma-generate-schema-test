@@ -1,0 +1,9 @@
+{
+  "name": "test-generate-schema",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "prisma-generate-schema": "^1.25.6"
+  }
+}
